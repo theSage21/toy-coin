@@ -1,4 +1,4 @@
-ToyChain
+ToyCoin
 ========
 
 An exploratory implementation of Blockchain Tech with Python.
@@ -12,4 +12,4 @@ Motivation
 3. I might learn something which might benefit me.
 4. It's always nice to know more about something which everyone cares about.
 
-Since all the work is in the Notebook: [The Notebook](ToyChain.ipynb)
+Since all the work is in the Notebook: [The Notebook](ToyCoin.ipynb)
