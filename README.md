@@ -13,3 +13,5 @@ Motivation
 4. It's always nice to know more about something which everyone cares about.
 
 Since all the work is in the Notebook: [The Notebook](ToyCoin.ipynb)
+
+Pull requests are welcome.
