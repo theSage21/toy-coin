@@ -15,3 +15,4 @@ Motivation
 Since all the work is in the Notebook: [The Notebook](ToyCoin.ipynb)
 
 Pull requests are welcome.
+There's a much better version of what I did in [The Notebook](ToyCoin.ipynb) available at <https://github.com/julienr/ipynb_playground/blob/master/bitcoin/dumbcoin/dumbcoin.ipynb>
